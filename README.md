@@ -52,7 +52,7 @@ Audiences tend to prefer captions that are informative but not too
 long.\
 Shorter captions have a higher chance of being fully read, which often
 correlates with higher engagement rates.
-<img width="800" height="200" alt="Caption Length vs  Post Engagement Rate" src="https://github.com/user-attachments/assets/96acc012-2167-47cc-bfa7-c57754597b2f" />
+<img width="1000" height="500" alt="Caption Length vs  Post Engagement Rate" src="https://github.com/user-attachments/assets/96acc012-2167-47cc-bfa7-c57754597b2f" />
 
 
 ### 4. Hashtag Distribution per Competitor
@@ -64,7 +64,7 @@ especially for long captions.
 -   **Lister** stands out as an outlier with a different strategy.
 -   **The Key** shows the most varied results, indicating either
     experimentation or a lack of consistency in hashtag placement.
-    <img width="800" height="200" alt="Hashtag Position Distribution per Account" src="https://github.com/user-attachments/assets/69fbab2c-dee5-42a6-9ee4-a54074bfbeed" />
+    <img width="1000" height="500" alt="Hashtag Position Distribution per Account" src="https://github.com/user-attachments/assets/69fbab2c-dee5-42a6-9ee4-a54074bfbeed" />
 
 
 ### 5. Time-Based Analysis
