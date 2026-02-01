@@ -21,6 +21,8 @@ The project analyzes media data from several Instagram accounts:
 -   **Data Manipulation:** pandas, numpy, os\
 -   **Visualization:** plotly.express, seaborn, matplotlib\
 -   **File Format:** JSON and Excel (.xlsx)
+## 📊 Implementation Plan 
+<img width="697" height="393" alt="Screenshot 2026-02-01 at 22 17 44" src="https://github.com/user-attachments/assets/01468e09-b18a-49f8-bee1-8d76eebd0abe" />
 
 ## 📈 Key Analysis Features
 
