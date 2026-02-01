@@ -62,6 +62,8 @@ especially for long captions.
 -   **Lister** stands out as an outlier with a different strategy.
 -   **The Key** shows the most varied results, indicating either
     experimentation or a lack of consistency in hashtag placement.
+    <img width="1300" height="800" alt="Hashtag Position Distribution per Account" src="https://github.com/user-attachments/assets/69fbab2c-dee5-42a6-9ee4-a54074bfbeed" />
+
 
 ### 5. Time-Based Analysis
 
