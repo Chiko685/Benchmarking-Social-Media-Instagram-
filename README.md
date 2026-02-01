@@ -1,37 +1,51 @@
-# Visualization The Key --- README
+Social Media Performance Analysis: "The Key" Competitor Project
+This repository contains a comprehensive data analysis and visualization of Instagram content performance for The Key and its competitors. The analysis focuses on understanding content distribution, engagement metrics, and posting patterns to identify best practices in the English education sector.
 
-This project is based on the Jupyter Notebook **Visualization The
-Key.ipynb**, which contains data exploration, preprocessing, and
-visualization steps.
+📊 Overview
+The project analyzes media data from several Instagram accounts:
 
-## Contents of the Notebook
+Target Account: The Key
 
-The notebook includes: - Importing core libraries (`pandas`, `numpy`,
-`seaborn`, `matplotlib`) - Data loading and inspection - Feature
-exploration - Data preprocessing - Exploratory visualizations - Insights
-and key observations
+Competitors: British Council, Wall Street English, EF (English First), Lister, Titik Nol, and Kampung Inggris LC.
 
-## How to Use
+🛠️ Tech Stack
+Language: Python
 
-1.  Open the notebook using Jupyter Notebook or JupyterLab.
+Data Manipulation: pandas, numpy, os
 
-2.  Run each cell sequentially.
+Visualization: plotly.express, seaborn, matplotlib
 
-3.  Ensure required datasets are placed in the correct paths.
+File Format: Excel (.xlsx)
 
-4.  Install dependencies:
+📈 Key Analysis Features
+1. Media Product Type Distribution
+The analysis compares the usage of FEED vs REELS across different accounts. For instance, "The Key" shows a heavy reliance on REELS (48 posts) compared to FEED (2 posts), while others like British Council favor FEED content.
 
-    ``` bash
-    pip install pandas numpy matplotlib seaborn
-    ```
+2. Top Performing Posts
+Identifies the top 10 posts for each account based on a calculated Engagement Rate (%).
 
-## Project Structure
+Formula: (likes + comments) / impressions * 100.
 
--   `Visualization The Key.ipynb` --- Main analysis notebook
--   Data files --- External `.xlsx` or `.csv` files referenced within
-    the notebook
+Goal: Determine which captions and content styles resonate most with the audience.
 
-## Notes
+3. Time-Based Analysis
+Posting Frequency: Analyzes weekly posting patterns (specifically focused on October 2025 data) to see which competitors are most active.
 
--   The notebook should be reviewed from top to bottom for full context.
--   Modify file paths as needed based on your environment.
+Best Time to Post: Correlates the hour of posting with total like counts to find optimal "golden hours" for engagement.
+
+4. Engagement Rate by Followers (ERF)
+A specialized metric for "The Key" to measure engagement relative to a fixed follower count (assumed at 5,000 for this analysis).
+
+📁 Project Structure
+Visualization The Key.ipynb: The primary Jupyter Notebook containing data cleaning, processing, and interactive Plotly visualizations.
+
+/file XLSX/: (External dependency) Directory containing the raw Excel data outputs for each analyzed account.
+
+🚀 How to Use
+Ensure you have Python installed with the necessary libraries:
+
+Bash
+pip install pandas numpy plotly seaborn matplotlib openpyxl
+Update the path variable in the notebook to point to your local directory containing the .xlsx files.
+
+Run the cells sequentially to generate the interactive charts and dataframes.
