@@ -16,7 +16,7 @@ The project analyzes media data from several Instagram accounts:
 
 ## 🛠️ Tech Stack
 
--   **Source:** Meta Graph API (FB-IG)\
+-   **Source:** Meta Graph API (FB-IG)\, Social Blade
 -   **Language:** Python, Power BI\
 -   **Data Manipulation:** pandas, numpy, os\
 -   **Visualization:** plotly.express, seaborn, matplotlib\
@@ -116,4 +116,5 @@ strategies within the English education industry.
 
 ![photo_2026-02-01 22 13 35](https://github.com/user-attachments/assets/49f24b77-2829-40fe-91fc-cdb6f11dcd41)
 
+<img width="937" height="527" alt="Screenshot 2026-03-28 at 21 09 28" src="https://github.com/user-attachments/assets/b2042de0-1405-41dc-b343-03160ac3e2a9" />
 
